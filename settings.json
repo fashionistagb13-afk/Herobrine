@@ -8,8 +8,8 @@
   "server": {
     "ip": "Bitrexx_smp.aternos.me",
     "port": 60241,
-    "version": "",
-    "try-creative": false
+    "version": "1.21.10",
+    "try-creative": true
   },
   "position": {
     "enabled": true,
